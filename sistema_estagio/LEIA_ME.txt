@@ -1,0 +1,5 @@
+Peço desculpas desde já, mas achei adequado colocar essas observações a seguir:
+
+Por algum motivo o sgbd que utilizo (tentei usar outros tambem mas sem sucesso) exportou apenas a tabela e não criando a base de dados.
+
+Caso seja necessario criar um database seria necessario nomea-lo "system_1".
